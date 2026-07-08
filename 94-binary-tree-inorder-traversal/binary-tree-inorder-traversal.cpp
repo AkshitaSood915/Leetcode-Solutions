@@ -9,7 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+ class Solution {
 public:
     void inorder(TreeNode* root, vector<int>& ans) {
         if (root == NULL)
