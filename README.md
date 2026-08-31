@@ -1,4 +1,4 @@
-# LeetCode Solutions 🚀
+# LeetCode Solutions 
 
 This repository contains my solutions to various **LeetCode problems**, implemented in **C++**.
 
@@ -12,7 +12,7 @@ The solutions focus on building strong problem-solving skills, understanding DSA
 - Learn optimized approaches
 - Prepare for coding interviews and assessments
 
-## 💻 Language
+## Language
 
 **C++**
 
